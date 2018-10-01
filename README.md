@@ -1,4 +1,4 @@
-#This is a repo for horseeye's solutions - read below for Amex's original prompt
+# This is a repo for horseeye's solutions - Read below for Amex's original prompt!
 
 # Welcome to Code & Solve!
 
