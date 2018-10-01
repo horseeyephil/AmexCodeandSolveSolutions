@@ -1,3 +1,5 @@
+#This is a repo for horseeye's solutions - read below for Amex's original prompt
+
 # Welcome to Code & Solve!
 
 Below are 3 coding problems – see if you can solve them! If you would like to share the solution with us, please share the GitHub project url for your solution using the comment option on our LinkedIn post. Let us see **your creativity!!**
